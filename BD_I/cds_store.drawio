@@ -1,11 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T13:15:37.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7OdH6RbbK9NTzOLKE5qs" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T13:39:17.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="aNmyLdCCrmLOYWOetTjI" version="24.0.5" type="github">
   <diagram name="Page-1" id="fX9RrKgvH6SyHoi_5Rdd">
-    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AshoG04ZGGXsUbE6QEYG-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Loja de CD&#39;s&lt;/h1&gt;&lt;p&gt;Diagrama de ERM para uma loja de CD&#39;s&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="60" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX1WCixsMA5-55GYTXhN-1" value="Gravadora" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX1WCixsMA5-55GYTXhN-2" value="CD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX1WCixsMA5-55GYTXhN-3" value="Música" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX1WCixsMA5-55GYTXhN-4" value="Autor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZX1WCixsMA5-55GYTXhN-6" value="Categoria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
